@@ -1,0 +1,5 @@
+swagbucks-offer/
+│
+├─ index.html ← main landing page
+└─ assets/
+└─ hero.png ← download this image: https://www.cpagrip.com/admin/media/offers/3e5c4101e09a8810079f10b09c736d05.png
